@@ -2,13 +2,8 @@
 
 A growing collection of Python notebooks based on projects and assignments from my **Mathematical Methods for Physicists - II** course, taken in **Spring 2020** during my bachelor’s degree.
 
-I’m revisiting and polishing these notebooks as a way to refresh mathematical physics, probability, and statistics, while keeping clear, runnable examples of the techniques I studied. I’ll add the notebooks gradually.
+I’m revisiting and polishing these notebooks as a way to refresh mathematical physics, probability, and statistics, while keeping clear, runnable examples of the techniques I studied and adding comments where necessary so that anyone can follow the work. I’ll add the notebooks gradually, might add companion notes some time in the future.
 
-## What you’ll find here
-
-The repository will grow to include computational explorations of mathematical and statistical methods used in physics. Each notebook will introduce its problem, explain the method, show the implementation, and discuss the result.
-
-Topics and project descriptions will be added here as the notebooks are ready.
 
 ## Repository structure
 
