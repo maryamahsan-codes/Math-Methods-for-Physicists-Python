@@ -11,8 +11,8 @@ I’m revisiting and polishing these notebooks as a way to refresh mathematical 
 .
 ├── README.md
 └── Notebooks/
-    ├── project-01/
-    └── project-02/
+    ├── project-01.ipynb
+    └── project-02.ipynb
 ```
 Notebook and folder names may change as the collection develops.
 
