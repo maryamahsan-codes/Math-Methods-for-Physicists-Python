@@ -18,5 +18,9 @@ Notebook and folder names may change as the collection develops.
 
 ## About
 
-This is a personal learning and reference project. The notebooks are being revised for clarity and reproducibility; they may differ from the original course submissions.
+This is a personal learning and reference project. The notebooks are being revised for clarity and reproducibility; they may differ from the original course submissions.'
+
+## AI Usage
+
+LLMs/coding agents have been used to streamline the pre-existing notebooks and improve the structure
 
