@@ -10,9 +10,9 @@ I’m revisiting and polishing these notebooks as a way to refresh mathematical 
 ```text
 .
 ├── README.md
-└── Notebooks/
+└── #_Topic/
     ├── project-01.ipynb
-    └── project-02.ipynb
+    └── guide.pdf
 ```
 Notebook and folder names may change as the collection develops.
 
